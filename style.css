@@ -1,0 +1,6 @@
+body{
+	margin: 0;
+	border: 0;
+	text-align: center;
+	background: linear-gradient(to bottom right,red,yellow) no-repeat center center fixed;
+}
